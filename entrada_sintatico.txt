@@ -1,0 +1,37 @@
+safira main() {
+    diamante x;
+    diamante y;
+    x = 10;
+    y = 20;
+    ametista("Resultado de x + y: ", x + y);
+    topazio(x > y) {
+        ametista("x é maior que y");
+    }
+    água-marinha {
+        ametista("x e y são iguais");
+    }
+}
+
+
+########################################
+
+safira main() {
+    ametista("Calculadora Simples");
+
+    safira numero1;
+    safira numero2;
+    safira soma;
+
+    ametista("Digite o primeiro número:");
+    numero1 = 10;
+
+    ametista("Digite o segundo número:");
+    numero2 = 20;
+
+    soma = numero1 + numero2;
+
+    ametista("A soma dos números é:");
+    ametista(soma);
+}
+
+
